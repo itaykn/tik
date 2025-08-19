@@ -1,1 +1,1 @@
-print("itayk knaan")
+print("itayyyy dog")
